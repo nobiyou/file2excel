@@ -7,3 +7,6 @@
 - 导出为csv或者xlsx
 
 ## 界面截图
+![](https://github.com/nobiyou/file2excel/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250302103500.png)
+![](https://github.com/nobiyou/file2excel/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250302103522.png)
+![](https://github.com/nobiyou/file2excel/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250302114026.png)
